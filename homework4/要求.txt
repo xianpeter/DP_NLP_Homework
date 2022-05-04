@@ -1,0 +1,7 @@
+金庸小说训练词向量，寻找词向量间的关系
+噪声信道模型
+counted-based method
+semantic similarity向量求点积
+one hot representation
+embedding learning
+word2vec CBOW
